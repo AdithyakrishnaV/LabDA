@@ -1,0 +1,67 @@
+#logistic_regression
+Step 1 : Start
+Step 2 : Include required libraries(mlbench, ggplot)
+Step 3 : Create diabetes dataset for training
+Step 4 : Create logistic regression model
+Step 5 : Print summary
+Step 6 : Create dataset for predicting diabetes
+Step 7 : Predict probability of diabetes
+Step 8 : print 'pos' if probability is greater than 0.5 else print 'neg'
+Step 9 : Stop
+
+#linear regression
+Step 1 : Start
+Step 2 : Include required libraries(ggplot)
+Step 3 : Create linear regression model using mtcars dataset
+Step 4 : Print summary
+Step 5 : Plot linear regression model using ggplot
+Step 6 : Stop
+
+#Descriptive Statistics
+Step 1 : Start 
+Step 2 : Create 2 data samples 
+Step 3 : Select entire data to be evaluated 
+Step 4 : Select Data from Menu bar 
+Step 5 : From the drop down menu select Statistics -> Descriptive Statistics 
+Step 6 : Enter result cell 
+Step 7 : Choose column in Grouped by 
+Step 8 : Click ok 
+Step 9 : Stop
+
+#Linear regression in Calc
+Step 1 : Start 
+Step 2 : Enter data sample 
+Step 3 : Select entire data sample 
+Step 4 : Select insert from Menu bar and Click on chart 
+Step 5 : Choose XY (Scatter) as chart type 
+Step 6 : Select points only 
+Step 7 : Click Next-> Next-> Next 
+Step 8 : In chart elements give Title and axis labels 
+Step 9 : Click Finish 
+Step 10 : Select a point on the appeared scatter plot 
+Step 11 : Select insert from Menu bar and Click on Trend line 
+Step 12 : Select Type and choose linear as regression type 
+Step 13 : Check Show Equation and click ok 
+Step 14 : Using the Equation Predict Avg Expense 
+Step 15 : Stop
+
+#Histogram in Calc
+Step 1 : Start 
+Step 2 : Enter data sample 
+Step 3 : Calculate min and max of sample data using min() & max() 
+Step 4 : Choose lower bound of min value as starting value of bin, Choose Upper bound of max value 
+as ending value of bin 
+Step 5 : Select all cells next to bin values to calculate frequency 
+Step 6 : Calculate frequency using the Equation “=Frequency(Data;class)” (Where data is the sample 
+data and class is bin values) 
+Step 7 : After entering equation click Shift+Ctrl+Enter to execute 
+Step 8 : Select Entire bin and Frequency(Including Labels) 
+Step 9 : Select insert from Menu bar and Click on chart 
+Step 10 : Choose Column as chart type and click next 
+Step 11 : Check Data series in columns, First row as label and First column as label 
+Step 12 : Click next->next 
+Step 13 : In chart elements give Title and axis labels
+Step 14 : Click Finish 
+Step 15 : Stop
+
+
